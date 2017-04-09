@@ -56,12 +56,9 @@ new Vue ({
 		}, 
 
 		deleteEvent: function(index) {
-			console.log('hi')
-		  if(confirm("Are you sure you want to delete this event?")) {
-		    // $remove is a Vue convenience method similar to splice
-		    console.log(index); 
+		 
 		    this.events.splice(index, 1);
-		  }
+		  
 		}
 	}
 }); 
