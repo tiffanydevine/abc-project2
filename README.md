@@ -1,7 +1,7 @@
-# abc-project1
+# abc-project2
 
 #### This is taken from a tutorial with minor modifications
 
-#### source: http://tutorialzine.com/2015/04/first-webapp-react/
+#### source: https://scotch.io/tutorials/build-an-app-with-vue-js-a-lightweight-alternative-to-angularjs
 
 #### An app that saves event
