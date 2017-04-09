@@ -4,4 +4,4 @@
 
 #### source: http://tutorialzine.com/2015/04/first-webapp-react/
 
-#### An app that saves events
+#### An app that saves event
